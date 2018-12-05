@@ -5,7 +5,7 @@ const path = require('path');
 const api = require('./server/routes/api');
 
 
-const port = 2000;
+const port = 8080;
 const app = express();
 
 
